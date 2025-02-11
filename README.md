@@ -1,3 +1,4 @@
 # Hello_World
 This is my first git (testing)
-on git hub
+on git hub.
+Hello there
